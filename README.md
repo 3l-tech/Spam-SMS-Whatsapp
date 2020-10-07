@@ -30,27 +30,29 @@ Facebook  : https://m.facebook.com/shubham.gosain.980
 Telegram :
 https://t.me/ShuBham_g0sain
 
-### Installation
+ #Installation
 
- pkg update
+💻pkg update
  
- pkg upgrade
+💻pkg upgrade
 
- pkg install python
+💻pkg install python
 
- pkg install python2
+💻pkg install python2 -y
 
- git clone https://github.com/ShuBhamg0sain/Spam-SMS-Whatsapp
+💻git clone https://github.com/ShuBhamg0sain/Spam-SMS-Whatsapp
  
- ls
+💻ls
 
- cd Spam-SMS-Whatsapp
+💻cd Spam-SMS-Whatsapp
 
- python3 ShuBham.py
+💻python3 ShuBham.py
 
-       Or 
+     Or 
 
- python ShuBham.py
+💻python ShuBham.py
 
 ### :NOTE:
 Used Tokopedia Option 
+
+#HACKER 3L-TECH
